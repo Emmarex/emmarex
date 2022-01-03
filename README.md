@@ -28,6 +28,7 @@ Here are some of the technologies I have worked with or currently work with:
 
 <ol>
     <li>Python/Django/Flask</li>
+    <li>GoLang</li>
     <li>HTML/CSS/JavaScript</li>
     <li>Node.js</li>
     <li>VueJs</li>
