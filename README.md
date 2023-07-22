@@ -20,11 +20,9 @@ Here are some ideas to get you started:
 
 Hello 👋 , my name is <b>Oluwafemi Tairu</b>. Human 😄, Software Developer with a huge focus on Backend <sup>[[1](https://careerfoundry.com/en/blog/web-development/whats-the-difference-between-frontend-and-backend/#4-what-is-backend-development)] [[2](https://en.wikipedia.org/wiki/Front_end_and_back_end#Back-end_focused)]</sup> Development, Occasional Speaker and Writer.
 
-Currently, a Software developer at [msk.ai](https://www.msk.ai) and previously, a Software Developer at [GreenPlaces](https://greenplaces.com). My full work history can be found [here](https://www.linkedin.com/in/oluwafemi-tairu/).
+Currently, a Software developer at [msk.ai](https://www.msk.ai).
 
-Going through my work history or code you will find out that there is a unique mix of job roles and programming language probably cutting through all major fields in tech. That's a story for another day. I like to see myself as a Programmer or a Full-stack developer with a mixture of other stuff. However, I am much more comfortable working on stuff on the backend, I love Machine Learning and will one day learn stuff on [Augmented reality](https://en.wikipedia.org/wiki/Augmented_reality).
-
-Whenever I'm not on my laptop coding, I am listening to music, watching movies, discussing with friends or playing games (Chess, Whot! or Ludo).
+Whenever I'm not on my laptop coding, I am listening to music, taking pictures or gaming.
 
 Have a little something you want to talk to me about? [Send a mail](mailto:tairuoluwafemi09@gmail.com)
 
