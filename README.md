@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 Hello 👋 , my name is <b>Oluwafemi Tairu</b>. Human 😄, Software Developer with a huge focus on Backend <sup>[[1](https://careerfoundry.com/en/blog/web-development/whats-the-difference-between-frontend-and-backend/#4-what-is-backend-development)] [[2](https://en.wikipedia.org/wiki/Front_end_and_back_end#Back-end_focused)]</sup> Development, Occasional Speaker and Writer.
 
-Currently, a Software developer at [msk.ai](https://www.msk.ai).
+Currently, a Software developer at [Hopper Healthcare](https://www.hopperhealthcare.com).
 
 Whenever I'm not on my laptop coding, I am listening to music, taking pictures or gaming.
 
